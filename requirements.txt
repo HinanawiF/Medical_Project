@@ -1,0 +1,11 @@
+transformers>=4.30.0
+datasets>=2.12.0
+peft>=0.4.0
+trl>=0.4.7
+unsloth @ git+https://github.com/unslothai/unsloth.git
+torch>=2.0.0
+accelerate>=0.21.0
+evaluate>=0.4.0
+rouge>=1.0.1
+nltk>=3.8.1
+sentencepiece>=0.1.99
